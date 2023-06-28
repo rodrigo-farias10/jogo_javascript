@@ -1,2 +1,2 @@
 # jogo_javascript
-Jogo em JavaScript chamado Vacina Attack baseado no jogo da cobrinha
+Jogo em JavaScript desenvolvido na matéria de Algortimos e Lógica de Programação. 
